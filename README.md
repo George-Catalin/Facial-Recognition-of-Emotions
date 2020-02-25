@@ -1,5 +1,5 @@
 # Facial-Recognition-of-Emotions
-In order to run this program tensorflow 2.0 is needed, opencv,tqdm and numpy
+In order to run this program tensorflow 2.0 is needed, opencv, tqdm and numpy
 # Steps to make the program work
        1. changing the path of facecascade in the config file
        2. python face_capture.py --emotion_name smile --number_of_images 200 to create the database. All the emotions must be done.
