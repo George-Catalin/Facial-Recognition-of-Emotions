@@ -11,5 +11,5 @@ In order to run this program tensorflow 2.0 is needed, opencv,tqdm and numpy
        5. python predictorr.py
        In the end, this will open up the camera and will start taking the video feed live. 
 # DEMO
-Notice that the program was trained just on my face and with only 200 pictures of each expression. Managed to get really good results, but it is not 100% accurate.
+Notice that the program was trained just on data with my face and it can also detect the emotion of other people, with only 200 pictures of each expression. Managed to get really good results, but it is not 100% accurate.
 Here is the link: https://www.youtube.com/watch?v=5xdkjhWTYqM
